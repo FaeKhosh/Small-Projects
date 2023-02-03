@@ -1,2 +1,2 @@
-# Small-Projects
-Short projects focused on mathematical modelling 
+# Short-Projects
+These projects focused on mathematical modelling 
